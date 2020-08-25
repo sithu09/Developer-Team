@@ -1,4 +1,4 @@
-#Muti Auti
+#Muti Auth
 #CRUD
 #Admin Dashboard
-#Users Dashboard
+#Users Accounts
